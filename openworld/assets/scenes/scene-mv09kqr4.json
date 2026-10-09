@@ -1,0 +1,76 @@
+{
+  "id": "scene-mv09kqr4",
+  "name": "桃花源",
+  "build": [
+    {
+      "bp": "house",
+      "at": [
+        65,
+        90
+      ]
+    },
+    {
+      "bp": "house",
+      "at": [
+        78,
+        88
+      ]
+    },
+    {
+      "bp": "house",
+      "at": [
+        80,
+        100
+      ]
+    },
+    {
+      "bp": "tree",
+      "at": [
+        70,
+        84
+      ]
+    },
+    {
+      "bp": "tree",
+      "at": [
+        88,
+        94
+      ]
+    },
+    {
+      "bp": "tree",
+      "at": [
+        60,
+        100
+      ]
+    }
+  ],
+  "center": [
+    74,
+    3,
+    92
+  ],
+  "shots": [
+    {
+      "id": "01-establish",
+      "type": "establish",
+      "duration": null
+    },
+    {
+      "id": "02-street",
+      "type": "street",
+      "duration": null
+    },
+    {
+      "id": "03-garden",
+      "type": "garden",
+      "duration": null
+    },
+    {
+      "id": "04-orbit",
+      "type": "orbit",
+      "duration": 10
+    }
+  ],
+  "createdAt": "2026-10-09T01:06:10.169Z"
+}

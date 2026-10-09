@@ -1,0 +1,60 @@
+{
+  "id": "scene-mv09k50u",
+  "name": "风雪边城",
+  "build": [
+    {
+      "bp": "castle",
+      "at": [
+        65,
+        90
+      ]
+    },
+    {
+      "bp": "tower",
+      "at": [
+        78,
+        86
+      ]
+    },
+    {
+      "bp": "tower",
+      "at": [
+        78,
+        98
+      ]
+    }
+  ],
+  "center": [
+    71.5,
+    3,
+    92
+  ],
+  "shots": [
+    {
+      "id": "01-establish",
+      "type": "establish",
+      "duration": null
+    },
+    {
+      "id": "02-gate",
+      "type": "gate",
+      "duration": null
+    },
+    {
+      "id": "03-tower",
+      "type": "tower",
+      "duration": null
+    },
+    {
+      "id": "04-orbit",
+      "type": "orbit",
+      "duration": 8
+    },
+    {
+      "id": "05-high",
+      "type": "high",
+      "duration": null
+    }
+  ],
+  "createdAt": "2026-10-09T01:05:43.101Z"
+}

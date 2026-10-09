@@ -1,0 +1,47 @@
+{
+  "id": "scene-muzbpvqk",
+  "name": "scene-muzbpvqk",
+  "build": [
+    {
+      "bp": "castle",
+      "at": [
+        65,
+        90
+      ]
+    },
+    {
+      "bp": "house",
+      "at": [
+        76,
+        88
+      ]
+    },
+    {
+      "bp": "tower",
+      "at": [
+        83,
+        103
+      ]
+    },
+    {
+      "bp": "tree",
+      "at": [
+        70,
+        84
+      ]
+    }
+  ],
+  "center": [
+    74,
+    14,
+    93.5
+  ],
+  "shots": [
+    {
+      "id": "01-establish",
+      "type": "establish",
+      "duration": null
+    }
+  ],
+  "createdAt": "2026-10-08T09:18:09.003Z"
+}

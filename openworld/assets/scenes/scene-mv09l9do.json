@@ -1,0 +1,67 @@
+{
+  "id": "scene-mv09l9do",
+  "name": "山村客栈",
+  "build": [
+    {
+      "bp": "house",
+      "at": [
+        65,
+        90
+      ]
+    },
+    {
+      "bp": "house",
+      "at": [
+        76,
+        90
+      ]
+    },
+    {
+      "bp": "tower",
+      "at": [
+        84,
+        96
+      ]
+    },
+    {
+      "bp": "tree",
+      "at": [
+        58,
+        86
+      ]
+    }
+  ],
+  "center": [
+    71,
+    3,
+    91
+  ],
+  "shots": [
+    {
+      "id": "01-establish",
+      "type": "establish",
+      "duration": null
+    },
+    {
+      "id": "02-garden",
+      "type": "garden",
+      "duration": null
+    },
+    {
+      "id": "03-dolly",
+      "type": "dolly",
+      "duration": 5
+    },
+    {
+      "id": "04-orbit",
+      "type": "orbit",
+      "duration": 6
+    },
+    {
+      "id": "05-high",
+      "type": "high",
+      "duration": null
+    }
+  ],
+  "createdAt": "2026-10-09T01:06:36.204Z"
+}
